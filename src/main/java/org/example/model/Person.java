@@ -6,6 +6,8 @@ public class Person {
 
     private int ID;
 
+    private String bookTitle;
+
     private boolean isTeacher;
     private boolean isJunior;
     private boolean isSenior;
